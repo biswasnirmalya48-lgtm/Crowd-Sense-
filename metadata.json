@@ -1,0 +1,6 @@
+{
+  "name": "CrowdSense – Campus Facility Crowd Monitor",
+  "description": "Real-time campus crowd levels, smart alternative suggestions, 24-hour predictive forecasts, and interactive campus facility map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
