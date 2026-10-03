@@ -1,5 +1,7 @@
 # CrowdSense – Campus Facility Crowd Monitor
 
+link : https://crowdsense.ai.studio
+
 A real-time, responsive web application for university students and facility administrators to monitor live campus crowd levels, discover less-crowded alternative spaces, view 24-hour predictive occupancy forecasts, and receive smart vacancy notifications.
 
 ---
