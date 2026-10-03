@@ -10,9 +10,7 @@ A real-time, responsive web application for university students and facility adm
 
 1. **Live Campus Facility Dashboard**
    - Live occupancy percentage per facility with color-coded density badges:
-     - 🟢 **Low Crowd (<40%)**: Green
-     - 🟡 **Moderate (40–75%)**: Amber
-     - 🔴 **Crowded (>75%)**: Rose/Red
+     
    - Animated visual progress bar with capacity indicators.
    - Trend direction indicator (↗ Rising, ↘ Falling, → Steady) with recent net delta.
    - Live timestamp tracking ("Updated 5s ago").
